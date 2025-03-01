@@ -27,3 +27,4 @@ def pattern(n):
             b+=1
         x+=1
         print()
+print(pattern(3))
